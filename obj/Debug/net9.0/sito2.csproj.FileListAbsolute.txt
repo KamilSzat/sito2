@@ -1,0 +1,14 @@
+C:\Users\szat1\Desktop\visual'\sito2\obj\Debug\net9.0\sito2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szat1\Desktop\visual'\sito2\obj\Debug\net9.0\sito2.AssemblyInfoInputs.cache
+C:\Users\szat1\Desktop\visual'\sito2\obj\Debug\net9.0\sito2.AssemblyInfo.cs
+C:\Users\szat1\Desktop\visual'\sito2\obj\Debug\net9.0\sito2.csproj.CoreCompileInputs.cache
+C:\Users\szat1\Desktop\visual'\sito2\bin\Debug\net9.0\sito2.exe
+C:\Users\szat1\Desktop\visual'\sito2\bin\Debug\net9.0\sito2.deps.json
+C:\Users\szat1\Desktop\visual'\sito2\bin\Debug\net9.0\sito2.runtimeconfig.json
+C:\Users\szat1\Desktop\visual'\sito2\bin\Debug\net9.0\sito2.dll
+C:\Users\szat1\Desktop\visual'\sito2\bin\Debug\net9.0\sito2.pdb
+C:\Users\szat1\Desktop\visual'\sito2\obj\Debug\net9.0\sito2.dll
+C:\Users\szat1\Desktop\visual'\sito2\obj\Debug\net9.0\refint\sito2.dll
+C:\Users\szat1\Desktop\visual'\sito2\obj\Debug\net9.0\sito2.pdb
+C:\Users\szat1\Desktop\visual'\sito2\obj\Debug\net9.0\sito2.genruntimeconfig.cache
+C:\Users\szat1\Desktop\visual'\sito2\obj\Debug\net9.0\ref\sito2.dll
